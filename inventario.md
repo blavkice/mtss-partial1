@@ -11,6 +11,10 @@
 -> see processori.md
 
 # Periferiche
+-> see periferiche/
+
+## Tastiere
+-> see tastiere.md
 
 
 Elettronica Padovana
