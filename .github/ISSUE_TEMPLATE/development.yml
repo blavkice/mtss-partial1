@@ -1,0 +1,19 @@
+name: Development
+description: File a development task
+title: "[dev]: "
+labels: ["dev"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: A concise description of the task
+    validations:
+      required: true
+  - type: input
+    id: estimated-time
+    attributes:
+      label: Estimated time
+      description: Estimated time in hours
+    validations:
+      required: true
