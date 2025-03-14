@@ -1,8 +1,6 @@
 2101085 Matteo Mantoan \[sviluppatore1]
 2113187 Giuseppe De Fina \[sviluppatore2]
 
-# Schede Madri
--> see schede\_madri.md
-
-# Processori
--> see processori.md
+- AMD Ryzen 9 9950X
+- Intel Core I7 7700K
+- Qualcomm SnapDragon 8 Elite
