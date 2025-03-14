@@ -16,6 +16,9 @@
 ## Mouse
 -> see mouse.md
 
+## Tastiere
+-> see tastiere.md
+
 
 Elettronica Padovana
 
