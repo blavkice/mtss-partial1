@@ -10,4 +10,8 @@
 ## Processori
 -> see processori.md
 
+# Periferiche
+
+
 Elettronica Padovana
+
